@@ -85,7 +85,4 @@ function App() {
 export default App;
 
 // We used EDAMAM API for fetching recipes
-// Application keys =
-// 2b4bde5dbb9643852e1aa23509810d0c	—
 
-// Application ID = fa108253
